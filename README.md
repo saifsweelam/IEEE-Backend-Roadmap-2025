@@ -59,6 +59,7 @@ Encountering the JavaScript world by mastering JS programming, getting to know a
 ### Contributors
 - [Seif El-Din Sweilam](https://github.com/saifsweelam)
 - [Mohamed Elgamal](https://github.com/mohamed97163)
+- [Saleh Enab](https://github.com/Saleh-enab)
 
 ### IEEE ManCSC
 - [csc.ieeemansb.org](csc.ieeemansb.org)
