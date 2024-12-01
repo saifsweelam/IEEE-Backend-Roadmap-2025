@@ -55,6 +55,12 @@ A roadmap to encountering PHP and implementing web applications using both nativ
 Encountering the JavaScript world by mastering JS programming, getting to know asynchronous execution, and then entering the Node.js zone. We will be learning `express` framework along with both relational and non-relational databases. We will get to know a lot of fun stuff about system design and best practices.
 
 ## **Contacts**
+
+### Contributors
+- [Seif El-Din Sweilam](https://github.com/saifsweelam)
+- [Mohamed Elgamal](https://github.com/mohamed97163)
+
+### IEEE ManCSC
 - [csc.ieeemansb.org](csc.ieeemansb.org)
 - [Facebook](https://www.facebook.com/ieeemancsc)
 - [LinkedIn](https://www.linkedin.com/company/ieeemancsc/)
