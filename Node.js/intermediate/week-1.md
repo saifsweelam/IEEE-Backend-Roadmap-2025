@@ -21,9 +21,6 @@
     - [Elzero Web School](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
     - [freeCodeCamp](https://www.youtube.com/watch?v=30LWjhZzg50)
 
-
-I'll update the task description to include the original code examples provided in the document:
-
 ## Task (30 pts.)
 
 ## Scoring
