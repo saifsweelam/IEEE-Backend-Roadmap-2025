@@ -1,6 +1,6 @@
 # Week 17
-     Laravel
-- ![Screenshot 2023-10-07 223551.png](./assets/Thiet-ke-chua-co-ten-4.webp)
+
+![Screenshot 2023-10-07 223551.png](./assets/Thiet-ke-chua-co-ten-4.webp)
 
 - Videos:
     - [up to 20](https://youtube.com/playlist?list=PLftLUHfDSiZ4GfPZxaFDsA7ejUzD7SpWa&si=jdURIRNoxHBliX7n)
