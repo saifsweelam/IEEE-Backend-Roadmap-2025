@@ -2,8 +2,8 @@
 
     - Project in  PHP & OOP & MYSQL
 ---
--Task 
-    -Upload this project to Github
+- Task <br>
+    - Upload this project to Github
         - Develop an Online Course Management System
 
             - Description:
@@ -11,12 +11,12 @@
 
             - Requirements:
                 Database Design:
-                Create the following tables:
-                - Users:
-                    - Hint use enum for differentiate between students and instructors
-                - Courses
-                - Enrollments
-                Features:
+                - Create the following tables:
+                    - Users:
+                        - Hint use enum for differentiate between students and instructors
+                    - Courses
+                    - Enrollments
+                - Features:
                     - User Authentication:
                         - Login and registration for both instructors and students.
                         - Role-based access control to restrict access to certain pages.
