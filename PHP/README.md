@@ -1,6 +1,7 @@
 # PHP Web Development Roadmap
 
 |🔗 [**Beginner**](#beginner-level)		     |Introduction to Data Bases - MySql - PHP (Basics - OOP - Solid Principles - MVC - APIs - PDO - Testing - Security - Projects) - Data Structures - Algorithms|
+<br>
 |🔗 [**Intermediate**](#intermediate-level)  |Software Engineering Concepts - UML - Design Patterns - Laravel (Basics - Admin Panels - APIs - Testing - Projects) - Deploying a Laravel Project - General Topics To Be Aware|
 
 <br>
