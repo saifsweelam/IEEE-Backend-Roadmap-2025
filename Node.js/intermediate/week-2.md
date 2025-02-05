@@ -9,9 +9,10 @@
 * Runtime Type Checking / Schema Validation (using Zod)
     - [Web Dev Simplified](https://www.youtube.com/watch?v=L6BE-U3oy80&t=33s&pp=ygUOem9kIHR5cGVzY3JpcHQ%3D)
 * Sessions
-    - [Anson the Developer](https://www.youtube.com/watch?v=Be7X6QJusJA)
+    - [Anson the Developer (Pt. 1)](https://youtu.be/oExWh86IgHA)
+    - [Anson the Developer (Pt. 2)](https://youtu.be/9J3UQYcro-U)
 * Flash Messages
-    - [TypeScript TV with Benny](https://www.youtube.com/watch?v=-7dNs1ggKRs)
+    - [Raddy](https://youtu.be/lSa1EIJapLg)
 * MVC file structure
     - [PedroTech](https://www.youtube.com/watch?v=Cgvopu9zg8Y)
     - [Courses 4 Arab](https://www.youtube.com/watch?v=uoHjKX5cmzY)

@@ -8,7 +8,7 @@
     - [Abdelrahman Gamal](https://www.youtube.com/watch?v=Z-5QVutAEW4)
 * DevTools
     - [Koding 101](https://www.youtube.com/watch?v=fxplz32rgEQ)
-    - [Elzero Web School](https://www.youtube.com/watch?v=fxplz32rgEQ)
+    - [Elzero Web School](https://www.youtube.com/watch?v=_IKTGQosYMo)
 * Absolute vs. Relative Paths
     - [kootkot](https://www.youtube.com/watch?v=hxto_sRZsBg)
 
