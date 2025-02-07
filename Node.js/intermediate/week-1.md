@@ -159,7 +159,7 @@ You're starting a new TypeScript project and want to use Express. Follow these s
 3. Install Express and TypeScript:
    ```bash
    npm install express
-   npm install --save-dev typescript @types/express
+   npm install --save-dev typescript
    ```
 4. Create a simple Express application in TypeScript
 
