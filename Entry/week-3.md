@@ -4,7 +4,8 @@
 
 ### Networking for Web Developers
 
-- [Playlist](https://www.youtube.com/playlist?list=PLNE3WjwctlOy1ekMfZl9AbLyFivSgsfml)
+- [Arabic Playlist](https://www.youtube.com/playlist?list=PLNE3WjwctlOy1ekMfZl9AbLyFivSgsfml)
+- [English Playlist](https://www.youtube.com/playlist?list=PLCy5RQkQgvf4yaL-AMDO8rpAAi90sWfGl)
 
 ## Task (30 pts.)
 
