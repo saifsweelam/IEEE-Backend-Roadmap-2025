@@ -27,34 +27,34 @@
 ### Multiple Choice Questions (5 marks)
 
 1. What is the primary purpose of using `bcrypt` in password protection?
-  - a) To encrypt database connections
-  - b) To compress password strings
-  - c) To securely hash and salt passwords
-  - d) To validate email formats
+    - a) To encrypt database connections
+    - b) To compress password strings
+    - c) To securely hash and salt passwords
+    - d) To validate email formats
 
 2. In session-based authentication, what does the server typically store?
-  - a) The user's entire profile
-  - b) A unique session identifier
-  - c) The user's password
-  - d) All user login attempts
+    - a) The user's entire profile
+    - b) A unique session identifier
+    - c) The user's password
+    - d) All user login attempts
 
 3. Which method is most secure for handling user passwords?
-  - a) Storing passwords in plain text
-  - b) Using MD5 hashing
-  - c) Using symmetric encryption
-  - d) Using bcrypt with salt
+    - a) Storing passwords in plain text
+    - b) Using MD5 hashing
+    - c) Using symmetric encryption
+    - d) Using bcrypt with salt
 
 4. When uploading files to cloud storage like Cloudinary, what is typically transmitted?
-  - a) The entire file path
-  - b) A file reference or unique identifier
-  - c) The complete file content
-  - d) User authentication tokens only
+    - a) The entire file path
+    - b) A file reference or unique identifier
+    - c) The complete file content
+    - d) User authentication tokens only
 
 5. What is a key advantage of session-based authentication?
-  - a) Reduced server load
-  - b) Stateless authentication
-  - c) Ability to track user state
-  - d) Immediate token expiration
+    - a) Reduced server load
+    - b) Stateless authentication
+    - c) Ability to track user state
+    - d) Immediate token expiration
 
 ### Written Questions (10 marks)
 
